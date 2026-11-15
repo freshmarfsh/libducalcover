@@ -6,3 +6,5 @@ registry: default
 node_modules/
 dist/
 *.log
+
+# 6e855b
